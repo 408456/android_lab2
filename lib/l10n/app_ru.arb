@@ -1,0 +1,115 @@
+{
+  "@@locale": "ru",
+
+  "appTitle": "Контакты 408456",
+  "appBarTitle": "408456 android_lab2",
+
+  "searchHint": "Поиск по имени",
+  "searchClear": "Очистить поиск",
+
+  "sortTooltip": "Порядок сортировки",
+  "sortAscending": "По имени: А → Я",
+  "sortDescending": "По имени: Я → А",
+
+  "refreshTooltip": "Перечитать адресную книгу",
+
+  "statsFound": "Найдено: {found} из {total}",
+  "@statsFound": {
+    "placeholders": {
+      "found": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+
+  "statsReads": "Чтений адресной книги: {count}",
+  "@statsReads": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "sourceSimulated": "Источник: симулятор устройства",
+  "sourceNative": "Источник: системная адресная книга",
+
+  "loadingTitle": "Чтение адресной книги",
+  "loadingMessage": "Приложение запрашивает контакты у системы",
+
+  "permissionDeniedTitle": "Нет доступа к контактам",
+  "permissionDeniedMessage": "Чтобы показать список, приложению нужно разрешение на чтение контактов устройства.",
+  "permissionRequestButton": "Запросить доступ",
+
+  "permissionPermanentlyDeniedTitle": "Доступ запрещён навсегда",
+  "permissionPermanentlyDeniedMessage": "Система больше не показывает запрос разрешения. Откройте настройки приложения и включите доступ к контактам вручную.",
+  "permissionOpenSettingsButton": "Открыть настройки",
+
+  "emptyAddressBookTitle": "Адресная книга пуста",
+  "emptyAddressBookMessage": "Разрешение выдано, но на устройстве нет ни одного контакта.",
+
+  "emptySearchTitle": "Ничего не найдено",
+  "emptySearchMessage": "По запросу «{query}» нет ни одного контакта.",
+  "@emptySearchMessage": {
+    "placeholders": {
+      "query": { "type": "String" }
+    }
+  },
+  "emptySearchResetButton": "Сбросить поиск",
+
+  "errorTitle": "Ошибка чтения контактов",
+  "errorRetryButton": "Повторить",
+  "errorPermissionDenied": "Доступ к контактам не предоставлен.",
+  "errorPermissionPermanentlyDenied": "Доступ к контактам запрещён навсегда.",
+  "errorSourceUnavailable": "Источник контактов недоступен на этой платформе.",
+  "errorReadFailed": "Системный провайдер контактов вернул ошибку.",
+  "errorTimeout": "Превышено время ожидания ответа адресной книги.",
+  "errorUnknown": "Неизвестная ошибка.",
+  "errorDetails": "Техническая информация: {details}",
+  "@errorDetails": {
+    "placeholders": {
+      "details": { "type": "String" }
+    }
+  },
+
+  "listNoPhone": "Нет номера телефона",
+  "listHasEmailTooltip": "У контакта есть email",
+
+  "detailsTitle": "Контакт",
+  "detailsPhonesSection": "Телефоны",
+  "detailsEmailsSection": "Электронная почта",
+  "detailsExtraSection": "Дополнительные поля",
+  "detailsOrganization": "Организация",
+  "detailsNote": "Заметка",
+  "detailsBirthday": "День рождения",
+  "detailsIdentifier": "Идентификатор в адресной книге",
+  "detailsNoPhones": "Номера телефонов не указаны",
+  "detailsNoEmails": "Адреса электронной почты не указаны",
+  "detailsNoExtra": "Дополнительные поля недоступны",
+  "detailsPlaceholder": "Выберите контакт из списка",
+
+  "labelMobile": "мобильный",
+  "labelWork": "рабочий",
+  "labelHome": "домашний",
+  "labelPersonal": "личный",
+  "labelOther": "другой",
+
+  "systemDialogTitle": "Разрешить приложению «Контакты 408456» доступ к вашим контактам?",
+  "systemDialogMessage": "Приложение прочитает имена, номера телефонов и адреса электронной почты из адресной книги устройства.",
+  "systemDialogAllow": "Разрешить",
+  "systemDialogDeny": "Запретить",
+
+  "settingsTitle": "Настройки приложения",
+  "settingsApplicationName": "Контакты 408456",
+  "settingsPackageName": "ru.goltsman.android_lab2",
+  "settingsPermissionsSection": "Разрешения",
+  "settingsContactsPermission": "Контакты",
+  "settingsAllowed": "Разрешено",
+  "settingsDenied": "Запрещено",
+  "settingsHint": "После возврата на экран приложение само проверит разрешение и обновит данные при необходимости.",
+  "settingsBack": "Назад в приложение",
+
+  "simulatorTitle": "Эмулятор устройства",
+  "simulatorResetPermission": "Сбросить разрешение к первому запуску",
+  "simulatorRevokePermission": "Отозвать выданное разрешение",
+  "simulatorEmptyAddressBook": "Сделать адресную книгу пустой",
+  "simulatorFillAddressBook": "Вернуть контакты в адресную книгу",
+  "simulatorReadFailure": "Вызвать ошибку чтения при следующем запросе"
+}

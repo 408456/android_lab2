@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contacts 408456</string>
+    <string name="contacts_permission_rationale">The application reads the device address book to show the contact list.</string>
+</resources>

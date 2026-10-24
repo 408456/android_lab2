@@ -1,0 +1,93 @@
+{
+  "@@locale": "en",
+
+  "appTitle": "Contacts 408456",
+  "appBarTitle": "408456 android_lab2",
+
+  "searchHint": "Search by name",
+  "searchClear": "Clear search",
+
+  "sortTooltip": "Sort order",
+  "sortAscending": "By name: A to Z",
+  "sortDescending": "By name: Z to A",
+
+  "refreshTooltip": "Read the address book again",
+
+  "statsFound": "Found: {found} of {total}",
+  "statsReads": "Address book reads: {count}",
+
+  "sourceSimulated": "Source: device simulator",
+  "sourceNative": "Source: system address book",
+
+  "loadingTitle": "Reading the address book",
+  "loadingMessage": "The application is requesting contacts from the system",
+
+  "permissionDeniedTitle": "No access to contacts",
+  "permissionDeniedMessage": "The application needs permission to read device contacts to show the list.",
+  "permissionRequestButton": "Request access",
+
+  "permissionPermanentlyDeniedTitle": "Access denied permanently",
+  "permissionPermanentlyDeniedMessage": "The system no longer shows the permission request. Open the application settings and enable access to contacts manually.",
+  "permissionOpenSettingsButton": "Open settings",
+
+  "emptyAddressBookTitle": "The address book is empty",
+  "emptyAddressBookMessage": "Permission is granted, but the device has no contacts.",
+
+  "emptySearchTitle": "Nothing found",
+  "emptySearchMessage": "No contacts match the query \"{query}\".",
+  "emptySearchResetButton": "Reset search",
+
+  "errorTitle": "Failed to read contacts",
+  "errorRetryButton": "Retry",
+  "errorPermissionDenied": "Access to contacts is not granted.",
+  "errorPermissionPermanentlyDenied": "Access to contacts is denied permanently.",
+  "errorSourceUnavailable": "The contacts source is not available on this platform.",
+  "errorReadFailed": "The system contacts provider returned an error.",
+  "errorTimeout": "The address book did not respond in time.",
+  "errorUnknown": "Unknown error.",
+  "errorDetails": "Technical details: {details}",
+
+  "listNoPhone": "No phone number",
+  "listHasEmailTooltip": "The contact has an email",
+
+  "detailsTitle": "Contact",
+  "detailsPhonesSection": "Phones",
+  "detailsEmailsSection": "Email",
+  "detailsExtraSection": "Additional fields",
+  "detailsOrganization": "Organization",
+  "detailsNote": "Note",
+  "detailsBirthday": "Birthday",
+  "detailsIdentifier": "Address book identifier",
+  "detailsNoPhones": "No phone numbers",
+  "detailsNoEmails": "No email addresses",
+  "detailsNoExtra": "No additional fields available",
+  "detailsPlaceholder": "Select a contact from the list",
+
+  "labelMobile": "mobile",
+  "labelWork": "work",
+  "labelHome": "home",
+  "labelPersonal": "personal",
+  "labelOther": "other",
+
+  "systemDialogTitle": "Allow \"Contacts 408456\" to access your contacts?",
+  "systemDialogMessage": "The application will read names, phone numbers and email addresses from the device address book.",
+  "systemDialogAllow": "Allow",
+  "systemDialogDeny": "Deny",
+
+  "settingsTitle": "Application settings",
+  "settingsApplicationName": "Contacts 408456",
+  "settingsPackageName": "ru.goltsman.android_lab2",
+  "settingsPermissionsSection": "Permissions",
+  "settingsContactsPermission": "Contacts",
+  "settingsAllowed": "Allowed",
+  "settingsDenied": "Denied",
+  "settingsHint": "After returning to the application it checks the permission itself and reloads the data if needed.",
+  "settingsBack": "Back to the application",
+
+  "simulatorTitle": "Device simulator",
+  "simulatorResetPermission": "Reset permission to the first launch state",
+  "simulatorRevokePermission": "Revoke the granted permission",
+  "simulatorEmptyAddressBook": "Make the address book empty",
+  "simulatorFillAddressBook": "Put the contacts back",
+  "simulatorReadFailure": "Fail the next address book read"
+}
